@@ -1,0 +1,7 @@
+canvas
+{
+    border:5px solid rgb(122, 233, 227);
+    border-radius: 20px;
+    box-shadow: 5px 5px 45px orange;
+    margin-top: 150px;
+}
